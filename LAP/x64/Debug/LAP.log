@@ -1,0 +1,12 @@
+﻿  MainLap1.cpp
+C:\Users\Tung\Desktop\XLAV\LAP\LAP\MainLap1.cpp(117,22): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+C:\Users\Tung\Desktop\XLAV\LAP\LAP\MainLap1.cpp(118,22): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+C:\Users\Tung\Desktop\XLAV\LAP\LAP\MainLap1.cpp(119,22): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+C:\Users\Tung\Desktop\XLAV\LAP\LAP\MainLap1.cpp(194,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tung\Desktop\XLAV\LAP\LAP\MainLap1.cpp(195,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tung\Desktop\XLAV\LAP\LAP\MainLap1.cpp(196,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tung\Desktop\XLAV\LAP\LAP\MainLap1.cpp(241,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tung\Desktop\XLAV\LAP\LAP\MainLap1.cpp(494,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tung\Desktop\XLAV\LAP\LAP\MainLap1.cpp(494,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tung\Desktop\XLAV\LAP\LAP\MainLap1.cpp(612,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  LAP.vcxproj -> C:\Users\Tung\Desktop\XLAV\LAP\x64\Debug\LAP1.exe

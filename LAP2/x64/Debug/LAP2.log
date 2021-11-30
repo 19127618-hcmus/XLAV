@@ -1,0 +1,47 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (LAP2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MainLab2.cpp
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\MainLab2.cpp(8,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\MainLab2.cpp(8,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\MainLab2.cpp(24,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\MainLab2.cpp(69,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\MainLab2.cpp(69,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  SourceLab2.cpp
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(32,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(32,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(56,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(56,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(75,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(75,43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(115,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(116,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(120,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(132,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(132,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(150,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(151,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(161,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(161,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(162,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(162,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(164,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(164,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(183,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(183,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(185,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(185,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(198,14): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(199,15): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(201,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(201,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(221,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(222,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(224,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(225,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(230,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(230,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(252,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(252,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(255,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tung\Desktop\GitHub\XLAV\LAP2\SourceLab2.cpp(255,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  LAP2.vcxproj -> C:\Users\Tung\Desktop\GitHub\XLAV\x64\Debug\LAB2.exe
