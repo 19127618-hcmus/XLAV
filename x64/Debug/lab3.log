@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Tung\Desktop\XLAV\LAB3\lab3\Source.cpp(18,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lab3.vcxproj -> C:\Users\Tung\Desktop\XLAV\LAB3\lab3\x64\Debug\lab3.exe
