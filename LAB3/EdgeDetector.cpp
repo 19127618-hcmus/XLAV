@@ -54,19 +54,19 @@ int EdgeDetector::Laplace(const Mat& sourceImage, Mat& destinationImage)
 int EdgeDetector::xGradient(Mat image, int x, int y)
 {
 	return image.at<uchar>(y - 1, x - 1)
-		+ 2 * image.at<uchar>(y, x - 1)
+		+ image.at<uchar>(y, x - 1)
 		+ image.at<uchar>(y + 1, x - 1)
 		- image.at<uchar>(y - 1, x + 1)
-		- 2 * image.at<uchar>(y, x + 1)
+		- image.at<uchar>(y, x + 1)
 		- image.at<uchar>(y + 1, x + 1);
 }
 int EdgeDetector::yGradient(Mat image, int x, int y)
 {
 	return image.at<uchar>(y - 1, x - 1)
-		+ 2 * image.at<uchar>(y - 1, x)
+		+  image.at<uchar>(y - 1, x)
 		+ image.at<uchar>(y - 1, x + 1)
 		- image.at<uchar>(y + 1, x - 1)
-		- 2 * image.at<uchar>(y + 1, x)
+		- image.at<uchar>(y + 1, x)
 		- image.at<uchar>(y + 1, x + 1);
 }
 int EdgeDetector::Prewitt(const Mat& sourceImage, Mat& destinationImage)
